@@ -3,7 +3,7 @@ SVM Kernel comparison using Linear, Polynomial and RBF kernels on Pima Diabetes 
 # SVM Kernel Comparison on Pima Indians Diabetes Dataset
 
 
-##👤 Author
+## 👤 Author
 
 Polimetla Surya Teja
 Student Number: 24164403
