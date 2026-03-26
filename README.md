@@ -2,26 +2,11 @@
 SVM Kernel comparison using Linear, Polynomial and RBF kernels on Pima Diabetes dataset
 # SVM Kernel Comparison on Pima Indians Diabetes Dataset
 
-#Project Structure
-svm-kernel-tutorial/
-│
-├── README.md
-├── LICENSE
-│
-├── data/
-│   └── diabetes.csv
-│
-├── notebook/
-│   └── svm_model.ipynb
-│
-├── report/
-│   └── svm_report.pdf
-│
-├── images/
-│   ├── accuracy.png
-│   ├── rbf.png
-│   ├── linear.png
-│   └── poly.png
+
+##👤 Author
+
+Polimetla Surya Teja
+Student Number: 24164403
 
 ## 📌 Overview
 This project explores the performance of different Support Vector Machine (SVM) kernels:
@@ -94,6 +79,24 @@ Example:
 
 ---
 
+##🎯 Key Insights
+
+- Kernel choice significantly impacts SVM performance
+- RBF kernel performs best for non-linear datasets
+- Linear kernel works well for simpler patterns
+- Polynomial kernel requires careful tuning
+  
+  
+---
+
+##📚 References
+
+- Cortes, C., & Vapnik, V. (1995). Support-vector networks. Machine Learning
+- Towards Data Science – SVM Explained
+
+  
+---
+
 ## ▶️ How to Run the Project
 
 ### 1. Clone the repository
@@ -108,7 +111,7 @@ svm-kernel-tutorial/
 ├── LICENSE
 │
 ├── data/
-│   └── diabetes.csv
+│   └── pima-indians-diabetes.csv
 │
 ├── notebook/
 │   └── svm_model.ipynb
@@ -123,24 +126,6 @@ svm-kernel-tutorial/
 │   └── poly.png
 
 
-🎯 Key Insights
-
-Kernel choice significantly impacts SVM performance
-
-RBF kernel performs best for non-linear datasets
-
-Linear kernel works well for simpler patterns
-
-Polynomial kernel requires careful tuning
 
 
-📚 References
 
-Cortes, C., & Vapnik, V. (1995). Support-vector networks. Machine Learning
-
-Towards Data Science – SVM Explained
-
-👤 Author
-
-Polimetla Surya Teja
-Student Number: 24164403
